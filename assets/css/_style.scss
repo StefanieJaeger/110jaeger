@@ -1,0 +1,192 @@
+//--- 
+//--- 
+
+@import "{{ site.theme }}";
+
+$header-span-back: #cd596b;
+$header-span-border: #7c334f;
+$header-1-back: #7c334f;
+$header-1-color: #ece4d8;
+$header-2-back: #7c334f;
+$header-2-color: #e69b95;
+$downloads-color: #83b7da;
+$footer-ribbon-outer-border: #bdb6ad;
+$footer-ribbon-inner-back: #cd596b;
+$footer-ribbon-inner-border: #7c334f;
+$footer-ribbon-inner-p-back: #7c334f;
+$footer-ribbon-inner-p-color: #e69b95;
+$footer-ribbon-inner-a-color: #7eb0d2;
+$footer-p-color: #8b786f;
+$footer-a-color: #cd596b;
+$body-back: #ece4d8;
+$body-color: #544943;
+$a-color: #417090;
+$blockquote-color: #8b786f;
+$img-shadow: #bdb6ad;
+$img-border: #fff6e9;
+$code-back: #fff6e9;
+$pre-back: #fff6e9;
+$pre-border: #fff6e9;
+$table-back: #fff6e9;
+$table-border: #bdb6ad;
+$th-border: #ece4d8;
+$th-color: #cd596b;
+$td-border: #ece4d8;
+$header-lvl-1-border: #d3ccc1;
+$header-lvl-1-color: #7c334f;
+$header-lvl-2-border: #d3ccc1;
+$header-lvl-2-color: #7c334f;
+$header-lvl-4-color: #cd596b;
+$header-lvl-5-color: #8b786f;
+
+
+$primary: #006ECC;// heading 1, buttons, header back
+$accent-light: #7ABCD0;// heading 2
+$accent-dark: #405684;//  heading 4, 5
+$shade-light: #ECECEC;// background
+$shade-dark: #181923;// header ribbon, text
+
+$header-span-back: yellow;
+$header-span-border: $shade-dark;
+$header-1-back: $shade-dark;
+$header-1-color: $shade-light;
+$header-2-back: $shade-dark;
+$header-2-color: lime;
+$downloads-color: #83b7da;
+$footer-ribbon-outer-border: #bdb6ad;
+$footer-ribbon-inner-back: seagreen;
+$footer-ribbon-inner-border: violet;
+$footer-ribbon-inner-p-back: $shade-dark;
+$footer-ribbon-inner-p-color: pink;
+$footer-ribbon-inner-a-color: #7eb0d2;
+$footer-p-color: #8b786f;
+$footer-a-color: $shade-dark;
+$body-back: $shade-light;
+$body-color: $shade-dark;
+$a-color: #417090;
+$blockquote-color: #8b786f;
+$img-shadow: #bdb6ad;
+$img-border: #fff6e9;
+$code-back: #fff6e9;
+$pre-back: #fff6e9;
+$pre-border: #fff6e9;
+$table-back: #fff6e9;
+$table-border: #bdb6ad;
+$th-border: $shade-light;
+$th-color: $shade-dark;
+$td-border: $shade-light;
+$header-lvl-1-border: #d3ccc1;
+$header-lvl-1-color:  $primary;
+$header-lvl-2-border: #d3ccc1;
+$header-lvl-2-color: $accent-light;
+$header-lvl-4-color: $accent-dark;
+$header-lvl-5-color: #8b786f;
+
+
+header {
+    span.ribbon-inner {
+        background: $header-span-back;
+        border-color: $header-span-border;
+    }
+    h1 {
+        background: $header-1-back;
+        color: $header-1-color;
+    }
+    h2 {
+        background: $header-2-back;
+        color: $header-2-color;
+    }
+}
+
+section#downloads {
+    a, em {
+        color: $downloads-color;
+    }
+}
+
+footer span.ribbon-outer {
+    border-color: $footer-ribbon-outer-border;
+}
+
+footer {
+    a {
+        color: $footer-a-color;
+    }
+    p {
+        color: $footer-p-color;
+    }
+}
+
+footer span.ribbon-inner {
+    background: $footer-ribbon-inner-back;
+    border-color: $footer-ribbon-inner-border;
+
+    a, a:hover {
+        color: $footer-ribbon-inner-a-color;
+    }
+    p {
+        color: $footer-ribbon-inner-p-color;
+        background: $footer-ribbon-inner-p-back;
+    }
+}
+
+body {
+    background: $body-back;
+    color: $body-color;
+}
+
+a, a:hover {
+    color: $a-color;
+}
+
+blockquote {
+    color: $blockquote-color;
+}
+
+img {
+    -webkit-box-shadow: 0px 2px 0px $img-shadow;
+    -moz-box-shadow: 0px 2px 0px $img-shadow;
+    box-shadow: 0px 2px 0px $img-shadow;
+    border-color: $img-border;
+}
+
+code {
+    background: $code-back;
+}
+
+pre {
+    background: $pre-back;
+    border-color: $pre-border;
+}
+
+table {
+    border: $table-border;
+    background-color: $table-back;
+}
+
+th {
+border-color: $th-border;
+color: $th-color;
+}
+
+td {
+border-color: $td-border;
+}
+
+.header-level-1 {
+    color: $header-lvl-1-color;
+    border-color: $header-lvl-1-border;
+}
+
+.header-level-2 {
+    color: $header-lvl-2-color;
+    border-color: $header-lvl-2-border;
+}
+
+.header-level-4 {
+    color: $header-lvl-4-color;
+}
+
+.header-level-5 {
+    color: $header-lvl-5-color;
+}
