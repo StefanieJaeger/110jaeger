@@ -3,15 +3,15 @@
 ## Wieso 110 Jahre?
 <div id="profiles">
 <div id="profile-urs">
-<img src="assets/content/urs.png" class="profile-pic">
+<img src="content/urs.png" class="profile-pic">
 <div class="profile-text"><p>Urs Jäger wird knackige</p><p>60 Jahre jung.</p></div>
 </div>
 <div id="profile-ben">
-<img src="assets/content/ben.png" class="profile-pic">
+<img src="content/ben.png" class="profile-pic">
 <div class="profile-text"><p>Ben Jäger zählt</p><p>30 Jahre Lebenserfahrung.</p></div>
 </div>
 <div id="profile-stefi">
-<img src="assets/content/stefi.png" class="profile-pic">
+<img src="content/stefi.png" class="profile-pic">
 <div class="profile-text"><p>Stefi Jäger feiert ihr</p><p>20. Geburtsjubiläum.</p></div>
 </div>
 </div>
