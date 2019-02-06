@@ -38,14 +38,14 @@ Im Hotel SoUndSo kann ein Zimmer genommen werden. Oder ÖV!
 
 ## Ist für Verpflegung gesorgt?
 Entweder Catering oder Grill. 
-### Bei Allergien, Vegetarier, Vegan etc.
+#### Bei Allergien, Vegetarier, Vegan etc.
 Bei Allergien, Vegetarismus, Veganismus oder anderen Problemen bitte vorzeitig melden, dann kann was spezielles gemacht werden.
 
 ## Required infos
-- [] Wo sollen alle parkieren (Waldhaus hat nur 4 Plätze)?
-- [] Von wann bis wann (Zeit)?
-- [] Wie funktioniert Shuttle genau?
-- [] Was soll mit bringen?
-- [] Wie siehts mit Essen aus (Allergien, Vegetarisch, Vegan)?
-- [] Wie siehts mit Hotel aus?
+- [ ] Wo sollen alle parkieren (Waldhaus hat nur 4 Plätze)?
+- [ ] Von wann bis wann (Zeit)?
+- [ ] Wie funktioniert Shuttle genau?
+- [ ] Was soll mit bringen?
+- [ ] Wie siehts mit Essen aus (Allergien, Vegetarisch, Vegan)?
+- [ ] Wie siehts mit Hotel aus?
 
