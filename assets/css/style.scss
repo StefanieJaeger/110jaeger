@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+header {
+    h2 {
+        margin: 0 !important;
+    }
+}
+
 #profiles {
     div {
         width: 100%;
