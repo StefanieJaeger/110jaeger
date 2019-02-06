@@ -16,6 +16,10 @@
 </div>
 </div>
 
+## Wie melde ich mich an?
+Wenn du kommst (und eingeladen bist), dann füll doch bitte das [Doodle] (www.google.ch "Doodle Link") bis am **---** aus.
+
+
 ## Wann und wo findet die Feier statt?
 Am **13.07.19** im Waldhaus Staufen. Der Anlass dauert etwa von --- bis ---. Den Lageplan und die Anreisemöglichkeiten zum Waldhaus sind unten auf der Seite aufgelistet.
 
