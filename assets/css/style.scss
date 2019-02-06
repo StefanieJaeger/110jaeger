@@ -3,11 +3,9 @@
 
 @import "{{ site.theme }}";
 
-header {
-    h2 {
+header h2 {
         margin: 0 !important;
     }
-}
 
 #profiles {
     div {
