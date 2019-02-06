@@ -17,7 +17,7 @@
 </div>
 
 ## Wie melde ich mich an?
-Wenn du kommst (und eingeladen bist), dann füll doch bitte das [Doodle] (https://www.google.ch "Doodle Link") bis am **---** aus.
+Wenn du kommst (und eingeladen bist), dann füll doch bitte das [Doodle] (https://www.google.ch) bis am **---** aus.
 
 
 ## Wann und wo findet die Feier statt?
