@@ -46,18 +46,18 @@ $accent-dark: #405684;//  heading 4, 5
 $shade-light: #ECECEC;// background
 $shade-dark: #181923;// header ribbon, text
 
-$header-span-back: $shade-dark;
-$header-span-border: orange;
-$header-1-back: pink;
+$header-span-back: yellow;
+$header-span-border: $shade-dark;
+$header-1-back: $shade-dark;
 $header-1-color: $shade-light;
-$header-2-back: green;
-$header-2-color: #e69b95;
+$header-2-back: $shade-dark;
+$header-2-color: lime;
 $downloads-color: #83b7da;
 $footer-ribbon-outer-border: #bdb6ad;
-$footer-ribbon-inner-back: $shade-dark;
+$footer-ribbon-inner-back: seagreen;
 $footer-ribbon-inner-border: violet;
-$footer-ribbon-inner-p-back: purple;
-$footer-ribbon-inner-p-color: #e69b95;
+$footer-ribbon-inner-p-back: $shade-dark;
+$footer-ribbon-inner-p-color: pink;
 $footer-ribbon-inner-a-color: #7eb0d2;
 $footer-p-color: #8b786f;
 $footer-a-color: $shade-dark;
