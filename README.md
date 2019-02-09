@@ -5,7 +5,7 @@ Am **13.07.19** im Waldhaus Staufen. Der Anlass dauert etwa von --- bis ---. Den
 <div id="profiles">
 <div id="profile-urs">
 <img src="content/urs.png" class="profile-pic">
-<div class="profile-text"><p>Urs Jäger wird knackige</p><p>60 Jahre jung.</p></div>
+<div class="profile-text"><span><p>Urs Jäger wird knackige</p><p>60 Jahre jung.</p></span></div>
 </div>
 <div id="profile-ben">
 <img src="content/ben.png" class="profile-pic">
@@ -13,7 +13,7 @@ Am **13.07.19** im Waldhaus Staufen. Der Anlass dauert etwa von --- bis ---. Den
 </div>
 <div id="profile-stefi">
 <img src="content/stefi.png" class="profile-pic">
-<div class="profile-text"><p>Stefi Jäger feiert ihr</p><p>20. Geburtsjubiläum.</p></div>
+<div class="profile-text"><span><p>Stefi Jäger feiert ihr</p><p>20. Geburtsjubiläum.</p></span></div>
 </div>
 </div>
 
