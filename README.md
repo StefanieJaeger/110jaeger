@@ -1,4 +1,5 @@
-# Urs, Ben und Stefi Jäger werden 110 Jahre alt!
+## Wann und wo findet die Feier statt?
+Am **13.07.19** im Waldhaus Staufen. Der Anlass dauert etwa von --- bis ---. Den Lageplan und die Anreisemöglichkeiten zum Waldhaus sind unten auf der Seite aufgelistet.
 
 ## Wieso 110 Jahre?
 <div id="profiles">
@@ -8,7 +9,7 @@
 </div>
 <div id="profile-ben">
 <img src="content/ben.png" class="profile-pic">
-<div class="profile-text"><p>Ben Jäger zählt</p><p>30 Jahre Lebenserfahrung.</p></div>
+<div class="profile-text"><span><p>Ben Jäger zählt</p><p>30 Jahre Lebenserfahrung.</p></span></div>
 </div>
 <div id="profile-stefi">
 <img src="content/stefi.png" class="profile-pic">
@@ -17,11 +18,7 @@
 </div>
 
 ## Wie melde ich mich an?
-Wenn du kommst (und eingeladen bist), dann füll doch bitte das [Doodle] (https://www.google.ch) bis am **---** aus.
-
-
-## Wann und wo findet die Feier statt?
-Am **13.07.19** im Waldhaus Staufen. Der Anlass dauert etwa von --- bis ---. Den Lageplan und die Anreisemöglichkeiten zum Waldhaus sind unten auf der Seite aufgelistet.
+Wer kommen möchte, füllt Bitte dieses [Doodle](https://www.google.com "Doodle") bis am **---** aus.
 
 ## Wie reist man an?
 #### Das Waldhaus befindet sich hier:
@@ -52,4 +49,3 @@ Bei Allergien, Vegetarismus, Veganismus oder anderen Problemen bitte vorzeitig m
 - [ ] Was soll mit bringen?
 - [ ] Wie siehts mit Essen aus (Allergien, Vegetarisch, Vegan)?
 - [ ] Wie siehts mit Hotel aus?
-
