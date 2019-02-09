@@ -28,7 +28,9 @@
     <div class="shell">
 
         <header>
-            <object data="content/ribbon.svg">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+            <object data="content/ribbon.svg"></object>
         </header>
 
         <section id="main_content">
