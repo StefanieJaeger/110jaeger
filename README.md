@@ -12,7 +12,7 @@ Am **13.07.2019** im Waldhaus Staufen ab 17.00 Uhr. Den Lageplan und die Anreise
         <div class="profile-text"><span><p>Ben Jäger zählt</p><p>30 Jahre Lebenserfahrung.</p></span></div>
     </div>
     <div id="profile-stefi">
-        <img src="content/stefi_2.png" class="profile-pic">
+        <img src="content/stefi_2.jpg" class="profile-pic">
         <div class="profile-text"><span><p>Stefi Jäger feiert ihr</p><p>20. Geburtsjubiläum.</p></span></div>
     </div>
 </div>
