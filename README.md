@@ -4,11 +4,11 @@ Am **13.07.2019** im Waldhaus Staufen ab 17.00 Uhr. Den Lageplan und die Anreise
 ## Wieso 110 Jahre?
 <div id="profiles">
     <div id="profile-urs">
-        <img src="content/urs_2.png" class="profile-pic">
+        <img src="content/urs_2.jpeg" class="profile-pic">
         <div class="profile-text"><span><p>Urs Jäger wird knackige</p><p>60 Jahre jung.</p></span></div>
     </div>
     <div id="profile-ben">
-        <img src="content/ben_2.png" class="profile-pic">
+        <img src="content/ben_2.jpeg" class="profile-pic">
         <div class="profile-text"><span><p>Ben Jäger zählt</p><p>30 Jahre Lebenserfahrung.</p></span></div>
     </div>
     <div id="profile-stefi">
