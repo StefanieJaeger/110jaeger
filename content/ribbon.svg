@@ -6,23 +6,21 @@
     </defs>
     <rect fill="none" width="100%" height="100%" />
     <g id="back">
-        <polygon id="back-drop" fill="#5b7f98" points="100,0 100,280 400,300 700,280 700,0"/>
-        <polygon id="back-drop-stroke" fill="none" stroke="#7eb0d2" stroke-width="4" points="110,10 110,270 400,290 690,270 690,10"/>
-        <image x="300" y="135" width="200" height="200" xlink:href="../assets/favorit.svg" />
-    </g>
+        <polygon id="back-drop" fill="#4c2f43" points="100,0 100,280 400,300 700,280 700,0"/>
+        <polygon id="back-drop-stroke" fill="none" stroke="#F5C441" stroke-width="4" points="110,10 110,270 400,290 690,270 690,10"/>
+         </g>
     <g id="ribbon" transform="translate(0,25)">
-        <polygon id="ribbon-left-outer" fill="#7b324e" points="0,25 25,110 0,195 100,195 100,25" />
-        <polygon id="ribbon-right-outer" fill="#7b324e" points="700,25 700,195 800,195 775,110 800,25" />
-        <polygon id="ribbon-left-outer-shadow" fill="black" points="100,190 40,160 40,25 100,25" style="opacity: 0.2;" />
-        <polygon id="ribbon-right-outer-shadow" fill="black" points="700,190 760,160 760,25 700,25" style="opacity: 0.2;"/>
-        <polygon id="ribbon-left-inner" fill="black" points="50,160 100,190 100,160" style="opacity: 0.4;" />
-        <polygon id="ribbon-right-inner" fill="black" points="750,160 700,190 700,160" style="opacity: 0.4;" />
-        <polygon id="ribbon-inner-top-shadow" fill="black" points="50,160 100,165 700,165 750,160" style="opacity: 0.2;"/>
-        <polygon id="ribbon-left-inner-shadow" fill="black" points="100,195 95,160 100,160" style="opacity: 0.2;"/>
-        <polygon id="ribbon-left-inner-shadow" fill="black" points="700,195 705,160 700,160" style="opacity: 0.2;"/>
-        <rect id="ribbon-middle" fill="#7c334f" width="700" height="160" x="50" y="0" />
-        <rect id="ribbon-middle-stroke" stroke="#cd596b" stroke-width="4" fill="none" width="680" height="140" x="60" y="10" />
-        <text x="400" y="80" fill="wheat" style="font-size:3.5em; font-family: 'Open Sans', Myriad, Calibri, sans-serif; font-weight: 800" text-anchor="middle">110 Jahre Jäger</text>
-        <text x="400" y="115" fill="#e69b95" text-anchor="middle">Urs(60) + Ben(30) + Stefi(20)</text>
-    </g>
+        <polygon id="ribbon-left-outer" fill="#344C2F" points="0,25 25,150 0,235 100,235 100,25" />
+        <polygon id="ribbon-right-outer" fill="#344C2F" points="700,25 700,235 800,235 775,150 800,25" />
+        <polygon id="ribbon-left-outer-shadow" fill="black" points="100,230 40,200 40,25 100,25" style="opacity: 0.2;" />
+        <polygon id="ribbon-right-outer-shadow" fill="black" points="700,230 760,200 760,25 700,25" style="opacity: 0.2;"/>
+        <polygon id="ribbon-left-inner" fill="black" points="50,200 100,230 100,200" style="opacity: 0.4;" />
+        <polygon id="ribbon-right-inner" fill="black" points="750,200 700,230 700,200" style="opacity: 0.4;" />
+        <polygon id="ribbon-inner-top-shadow" fill="black" points="50,200 100,205 700,205 750,200" style="opacity: 0.2;"/>
+        <polygon id="ribbon-left-inner-shadow" fill="black" points="100,235 95,200 100,200" style="opacity: 0.2;"/>
+        <polygon id="ribbon-right-inner-shadow" fill="black" points="700,235 705,200 700,200" style="opacity: 0.2;"/>
+        <rect id="ribbon-middle" fill="#2F4D39" width="700" height="200" x="50" y="0" />
+        <rect id="ribbon-middle-stroke" stroke="#F5C441" stroke-width="4" fill="none" width="680" height="180" x="60" y="10" />
+        <image x="250" y="-50" width="300" height="300" xlink:href="../assets/favorit.svg" />
+   </g>
 </svg>
