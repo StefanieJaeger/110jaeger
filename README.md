@@ -18,7 +18,7 @@ Am **13.07.2019** im Waldhaus Staufen ab 17.00 Uhr. Den Lageplan und die Anreise
 </div>
 
 ## Wie melde ich mich an?
-Wer kommen möchte, füllt bitte dieses [Doodle](https://doodle.com/poll/i4ahgzuqmb4m6mvh) bis am **12.05.2019** aus.
+Wer kommen möchte, füllt bitte dieses <a href="https://doodle.com/poll/i4ahgzuqmb4m6mvh" target="_blank" title="Doodle">Doodle</a> bis am **12.05.2019** aus.
 Wer mit Doodle nicht zurecht kommt, darf sich per E-mail oder Telefon bei Margrit melden.
 
 ## Wie reist man an?
