@@ -25,6 +25,9 @@ Wer mit Doodle nicht zurecht kommt, darf sich per E-mail oder Telefon bei Margri
 #### Das Waldhaus befindet sich hier:
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2702.0486533845747!2d8.15800245158025!3d47.371968879067474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479016217df69f0f%3A0x69ef82d10e837a54!2sWaldhaus+Staufen!5e0!3m2!1sen!2sch!4v1549459269004" height="450" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+#### Hier ein paar Bilder, die die Anfahrt erleichtern:
+[https://imgur.com/a/Ri1lcTA](https://imgur.com/a/Ri1lcTA)
+
 #### Parkieren
 In der näheren Umgebung hat es genügend Parkplätze, bitte Schilder beachten.
 
