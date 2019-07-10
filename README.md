@@ -42,6 +42,6 @@ Wir lassen uns gerne überraschen, freuen uns aber auch über eure Anwesenheit a
 Bitte im Doodle anmerken, wenn Hotelzimmerreservation erwünscht.
 
 ## Ist für Verpflegung gesorgt?
-Es gibt <a href="https://www.grillrad.ch" target="_blank">Grill am Rad</a> und Salate.
+Es gibt Tessinerbraten und Gemüse vom Grill und verschiedene Salate.
 #### Bei Allergien, Vegetarier, Vegan etc.
 Bei Allergien, Vegetarismus, Veganismus oder anderen Problemen bitte im Doodle anmerken.
