@@ -1,3 +1,8 @@
+## Danke, dass ihr da wart
+Wir haben das Fest und eure Anwesenheit sehr genossen.
+Wenn ihr Fotos habt, die ihr teilen möchtet, könnt ihr sie [hier auf Dropbox tun](https://www.dropbox.com/request/U8y5Wrou077DV7RpL7rB).
+Wir freuen uns schon auf ein nächstes Mal.
+
 ## Wann und wo findet die Feier statt?
 Am **13.07.2019** im Waldhaus Staufen ab 17.00 Uhr. Den Lageplan und die Anreisemöglichkeiten zum Waldhaus sind unten auf der Seite aufgelistet.
 
@@ -18,8 +23,7 @@ Am **13.07.2019** im Waldhaus Staufen ab 17.00 Uhr. Den Lageplan und die Anreise
 </div>
 
 ## Wie melde ich mich an?
-Wer kommen möchte, füllt bitte dieses <a href="https://doodle.com/poll/i4ahgzuqmb4m6mvh" target="_blank" title="Doodle">Doodle</a> bis am **12.05.2019** aus.
-Wer mit Doodle nicht zurecht kommt, darf sich per E-mail oder Telefon bei Margrit melden.
+Dafür ist es leider etwas zu spät.
 
 ## Wie reist man an?
 #### Das Waldhaus befindet sich hier:
