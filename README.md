@@ -1,15 +1,3 @@
-## Danke, dass ihr da wart
-Wir haben das Fest und eure Anwesenheit sehr genossen.
-Wenn ihr Fotos habt, die ihr teilen möchtet, könnt ihr sie [hier auf Dropbox tun](https://www.dropbox.com/request/U8y5Wrou077DV7RpL7rB).
-Wir freuen uns schon auf ein nächstes Mal.
-
-## ~~Wann und wo findet die Feier statt?~~
-Die Feier fand am **13.07.2019** im Waldhaus Staufen ab 17.00 Uhr statt. Wir hatten eine tolle Zeit und freuen uns auf ein nächstes Mal.
-
-## Wie sahen die Feier und die Feiernden so aus?
-Wir haben es uns nicht entgehen lassen, diesen wunderbaren Abend in Form von Fotos zu dokumentieren.
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/183336341@N07/albums/72157710247863312" title="110JahreJaeger"><img src="https://live.staticflickr.com/65535/48512964302_44992b3fbc_b.jpg" width="500" height="333" alt="110JahreJaeger"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 ## Wieso 110 Jahre?
 <div id="profiles">
     <div id="profile-urs">
@@ -25,3 +13,13 @@ Wir haben es uns nicht entgehen lassen, diesen wunderbaren Abend in Form von Fot
         <div class="profile-text"><span><p>Stefi Jäger feiert ihr</p><p>20. Geburtsjubiläum.</p></span></div>
     </div>
 </div>
+
+## Danke, dass ihr da wart
+Wir haben das Fest und eure Anwesenheit sehr genossen.
+Wenn ihr Fotos habt, die ihr teilen möchtet, könnt ihr sie [hier auf Dropbox tun](https://www.dropbox.com/request/U8y5Wrou077DV7RpL7rB).
+Wir freuen uns schon auf ein nächstes Mal.
+
+## Wie sahen die Feier und die Feiernden so aus?
+Wir haben es uns nicht entgehen lassen, diesen wunderbaren Abend in Form von Fotos zu dokumentieren.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/183336341@N07/albums/72157710247863312" title="110JahreJaeger"><img src="https://live.staticflickr.com/65535/48512964302_44992b3fbc_b.jpg" width="500" height="333" alt="110JahreJaeger"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
