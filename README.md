@@ -3,8 +3,12 @@ Wir haben das Fest und eure Anwesenheit sehr genossen.
 Wenn ihr Fotos habt, die ihr teilen möchtet, könnt ihr sie [hier auf Dropbox tun](https://www.dropbox.com/request/U8y5Wrou077DV7RpL7rB).
 Wir freuen uns schon auf ein nächstes Mal.
 
-## Wann und wo findet die Feier statt?
-Am **13.07.2019** im Waldhaus Staufen ab 17.00 Uhr. Den Lageplan und die Anreisemöglichkeiten zum Waldhaus sind unten auf der Seite aufgelistet.
+## ~~Wann und wo findet die Feier statt?~~
+Die Feier fand am **13.07.2019** im Waldhaus Staufen ab 17.00 Uhr statt. Wir hatten eine tolle Zeit und freuen uns auf ein nächstes Mal.
+
+## Wie sahen die Feier und die Feiernden so aus?
+Wir haben es uns nicht entgehen lassen, diesen wunderbaren Abend in Form von Fotos zu dokumentieren.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/183336341@N07/albums/72157710247863312" title="110JahreJaeger"><img src="https://live.staticflickr.com/65535/48512964302_44992b3fbc_b.jpg" width="500" height="333" alt="110JahreJaeger"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Wieso 110 Jahre?
 <div id="profiles">
@@ -21,31 +25,3 @@ Am **13.07.2019** im Waldhaus Staufen ab 17.00 Uhr. Den Lageplan und die Anreise
         <div class="profile-text"><span><p>Stefi Jäger feiert ihr</p><p>20. Geburtsjubiläum.</p></span></div>
     </div>
 </div>
-
-## Wie melde ich mich an?
-Dafür ist es leider etwas zu spät.
-
-## Wie reist man an?
-#### Das Waldhaus befindet sich hier:
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2702.0486533845747!2d8.15800245158025!3d47.371968879067474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479016217df69f0f%3A0x69ef82d10e837a54!2sWaldhaus+Staufen!5e0!3m2!1sen!2sch!4v1549459269004" height="450" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-#### Hier ein paar Bilder, die die Anfahrt erleichtern:
-[https://imgur.com/a/Ri1lcTA](https://imgur.com/a/Ri1lcTA)
-
-#### Parkieren
-In der näheren Umgebung hat es genügend Parkplätze, bitte Schilder beachten.
-
-#### Für ÖV-Nutzer:
-Selbstständige Anreise an Lenzburg Bahnhof. 
-Wenn Shuttle zur Waldhütte gewünscht ist, im Doodle bitte vermerken, dann wird man mit dem Jäger Shuttle abgeholt und direkt zur Waldhütte gebracht.
-
-## Soll man was mit bringen?
-Wir lassen uns gerne überraschen, freuen uns aber auch über eure Anwesenheit als Geschenk.
-
-## Was wenn es nach der Feier zu spät und zu 🍺 🍹 🍷 wird?
-Bitte im Doodle anmerken, wenn Hotelzimmerreservation erwünscht.
-
-## Ist für Verpflegung gesorgt?
-Es gibt Tessinerbraten und Gemüse vom Grill und verschiedene Salate.
-#### Bei Allergien, Vegetarier, Vegan etc.
-Bei Allergien, Vegetarismus, Veganismus oder anderen Problemen bitte im Doodle anmerken.
