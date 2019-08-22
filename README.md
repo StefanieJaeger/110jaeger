@@ -16,11 +16,11 @@
 
 ## Danke, dass ihr da wart
 Wir haben das Fest und eure Anwesenheit sehr genossen.
-Wenn ihr Fotos habt, die ihr teilen möchtet, könnt ihr sie [hier auf Dropbox laden](https://www.dropbox.com/request/U8y5Wrou077DV7RpL7rB).
-Wir freuen uns schon auf ein nächstes Mal, vieleicht 140 Jahre Jäger?
+Wenn ihr Fotos habt, die ihr teilen möchtet, könnt ihr sie <a href="https://www.dropbox.com/request/U8y5Wrou077DV7RpL7rB" target="_blank" title="Dropbox Link">hier auf Dropbox laden</a>.
+Wir freuen uns schon auf ein nächstes Mal, vielleicht 140 Jahre Jäger?
 
 ## Wie sahen die Feier und die Feiernden so aus?
 Wir haben es uns nicht entgehen lassen, diesen wunderbaren Abend in Form von Fotos zu dokumentieren.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/183336341@N07/albums/72157710247863312" title="110JahreJaeger"><img src="https://live.staticflickr.com/65535/48512964302_44992b3fbc_b.jpg" width="640" height="426" alt="110JahreJaeger"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-Danke an Fabio Don Confessore von [mediadom.ch](https://mediadom.ch) für die tollen Fotos.
+Danke an Fabio Don Confessore von <a href="https://mediadom.ch" target="_blank" title="Website des Fotografen">mediadom.ch</a> für die tollen Fotos.
 
